@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am paying off some technical debt accrued long before I ever knew the term.
+
+Starting in August 2023 and extending over the next eight months, I will be in a Tech Elevator Java Bootcamp while also working as a DevOps Engineer.
+
+I've got a few ideas and I like to see if I can stand them up and teach them to walk.
